@@ -1,0 +1,17 @@
+{
+  "name": "full-backend-project",
+  "version": "1.0.0",
+  "description": "a backend chai our code channel - youtube",
+  "keywords": [
+    "javascript",
+    "backend",
+    "chai"
+  ],
+  "license": "ISC",
+  "author": "Muhammad Umar",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
